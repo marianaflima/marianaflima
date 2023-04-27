@@ -6,8 +6,6 @@
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mari-felix&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-felix&layout=compact&langs_count=5&theme=swift&size_weight=0.5&count_weight=0.5"/>
-</div>
 
 <div> 
   <a href="https://instagram.com/_mariana.felix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
