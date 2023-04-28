@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: marianafelixdelima7@gmail.com
-- 😄 Pronouns: she/her
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mari-felix&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
