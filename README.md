@@ -1,4 +1,4 @@
-### Hi there! I'm Mariana Félix
+### Hi there!
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: marianafelixdelima7@gmail.com
