@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-felix&layout=compact&theme=swift&langs_count=8&hide_progress=false&size_weigh=1"/>
+  <img height="180cm" width="320cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-felix&layout=compact&theme=swift&langs_count=8&hide_progress=false&size_weigh=1"/>
 </div>
 
 <div> 
