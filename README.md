@@ -1,7 +1,7 @@
 ### Hi there, I'm Mariana!
 
 - 😺 On the path of being active on GitHub, so don't give it a lot of credit on my commits for now
-- 🌱 A quick learner, most profficient in .NET and Node.js currently, altough my stats here are that I use JavaScript on the most
+- 🌱 A quick learner, most profficient in .NET and Node.js currently, altough my stats here are that I use JavaScript the most
 - ❤️ Passionate for ASP.NET and Backend developing, looking forward to learn Cybersecurity and Cloud Computing in the future, and a bit of a crush of AI health uses 
 - ✨ Looking forward to collaborate on .NET Open Source projects
 - ☁️ 2x Google Cloud Platform certified (maybe I will study it more with it in the future)
