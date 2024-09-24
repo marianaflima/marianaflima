@@ -4,7 +4,7 @@
 - 🌱 A quick learner, most profficient in .NET and Node.js currently, altough my stats here are that I use JavaScript the most
 - ❤️ Passionate for ASP.NET and Backend developing, looking forward to learn Cybersecurity and Cloud Computing in the future, and a bit of a crush of AI health uses 
 - ✨ Looking forward to collaborate on .NET Open Source projects
-- ☁️ 2x Google Cloud Platform certified (maybe I will study it more in the future)
+- ☁️ Got some Google Cloud Infrastructure completion and ability badges
 - 📫 How to reach me: marianafelix.dev@gmail.com
 
 ### 🌐 Socials
