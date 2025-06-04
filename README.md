@@ -1,10 +1,13 @@
-## Hi there, I'm Mariana!
+## Hi there, I'm Mariana Lima!
 
-- 😺 On the path of being active on GitHub, so don't give a lot of credit on my commits for now
-- 🌱 A quick learner, most profficient in .NET and Node.js currently, altough my stats here are that I use JavaScript the most
-- ❤️ Passionate for ASP.NET and Backend developing, looking forward to learn Cybersecurity and Cloud Computing in the future, and a bit of a crush of AI health uses 
-- ✨ Looking forward to collaborate on .NET Open Source projects
-- ☁️ Got some Google Cloud Infrastructure completion and ability badges
+- 🌱 A curious and hands-on learner, currently focusing on React Native (Expo) and Python for data analysis  
+- ⚙️ Experienced with .NET (C#), TypeScript/NestJS, and Google Apps Script for automations  
+- 📊 Passionate about solving real-world problems with code — especially in health-related contexts  
+- 📚 Enjoys combining logic, data, and clean interfaces to create meaningful applications  
+- 🧠 Learning more about data pipelines, APIs, and visualization using Pandas, NumPy, and Matplotlib  
+- ❤️ Especially motivated by short, impactful tasks and working in demand-driven, collaborative environments  
+- ✨ Exploring the intersection between technology, data, and healthcare  
+- 🔎 Always open to practical projects, automation challenges, and data-driven prototypes
 - 📫 How to reach me: marianafelix.dev@gmail.com
 
 ### 🌐 Socials
@@ -16,16 +19,17 @@
 
 ## 👩🏻‍💻 Tech Stack
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/>               
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>       
 </p>
 
 ### Alternatives 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/>
 </p>
 
