@@ -1,13 +1,6 @@
 ## Hi there, I'm Mariana Lima!
 
-- 🌱 A curious and hands-on learner, currently focusing on React Native (Expo) and Python for data analysis  
-- ⚙️ Experienced with .NET (C#), TypeScript/NestJS, and Google Apps Script for automations  
-- 📊 Passionate about solving real-world problems with code — especially in health-related contexts  
-- 📚 Enjoys combining logic, data, and clean interfaces to create meaningful applications  
-- 🧠 Learning more about data pipelines, APIs, and visualization using Pandas, NumPy, and Matplotlib  
-- ❤️ Especially motivated by short, impactful tasks and working in demand-driven, collaborative environments  
-- ✨ Exploring the intersection between technology, data, and healthcare  
-- 🔎 Always open to practical projects, automation challenges, and data-driven prototypes
+- 🔄️ On maintenance
 - 📫 How to reach me: marianafelix.dev@gmail.com
 
 ### 🌐 Socials
