@@ -34,6 +34,3 @@ the data they generate.
   <a href="mailto:marianafelix.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marianafelix755/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
-### 😺 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=marianaflima&theme=calm&show_icons=true&hide_border=false&count_private=false)
